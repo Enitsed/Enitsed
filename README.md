@@ -1,6 +1,6 @@
-### ⭐ Starred Repositories — 2,051개 분류 색인
+### ⭐ Starred Repositories — 2,052개 분류 색인
 
-별표한 저장소 **2,051개**를 **20개 대분류 · 90개 중분류 · 225개 소분류 · 55개 세분류**로 정리했습니다.
+별표한 저장소 **2,052개**를 **20개 대분류 · 90개 중분류 · 225개 소분류 · 55개 세분류**로 정리했습니다.
 
 아래 표는 대분류이며, 각 항목은 GitHub Stars 리스트로 연결됩니다.
 
@@ -14,7 +14,7 @@
 | [백엔드 · API · 아키텍처](https://github.com/stars/Enitsed/lists/%EB%B0%B1%EC%97%94%EB%93%9C-api-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98) | 119 | 백엔드 프레임워크, API, 아키텍처 패턴 |
 | [개발 도구 · CLI · 터미널](https://github.com/stars/Enitsed/lists/%EA%B0%9C%EB%B0%9C-%EB%8F%84%EA%B5%AC-cli-%ED%84%B0%EB%AF%B8%EB%84%90) | 118 | 터미널 · 셸, 데스크톱 유틸리티, 에디터 · IDE |
 | [데이터 · 데이터베이스](https://github.com/stars/Enitsed/lists/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4) | 97 | DB 엔진, DB 도구, 파이프라인 · 스트리밍 |
-| [라이브러리 · 기타](https://github.com/stars/Enitsed/lists/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B8%B0%ED%83%80) | 85 | JS/TS 유틸리티, 기타, 기타 언어 라이브러리 |
+| [라이브러리 · 기타](https://github.com/stars/Enitsed/lists/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B8%B0%ED%83%80) | 86 | JS/TS 유틸리티, 기타 언어 라이브러리, 기타 |
 | [RAG · 검색 · 지식](https://github.com/stars/Enitsed/lists/rag-%EA%B2%80%EC%83%89-%EC%A7%80%EC%8B%9D) | 82 | 문서 파싱 · OCR, RAG, 코드 지식 그래프 |
 | [블록체인 · Web3](https://github.com/stars/Enitsed/lists/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-web3) | 79 | 스마트 컨트랙트, 체인 · 프로토콜, 데이터 · 탐색 |
 | [미디어 · 멀티모달](https://github.com/stars/Enitsed/lists/%EB%AF%B8%EB%94%94%EC%96%B4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC) | 53 | 이미지 · 비디오, 음성, 미디어 서비스 |
@@ -29,4 +29,3 @@
 
 <sub>중분류 이하 전체 트리는 GitHub Stars 리스트 상한(계정당 32개) 때문에 담을 수 없어 별도 색인 페이지로 관리합니다.</sub>
 
-<sub>마지막 갱신 2026-08-16 · 별표 2,051개 기준</sub>
