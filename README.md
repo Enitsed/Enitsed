@@ -1,13 +1,13 @@
-### ⭐ Starred Repositories — 2,251개 분류 색인
+### ⭐ Starred Repositories — 2,257개 분류 색인
 
-별표한 저장소 **2,251개**를 **20개 대분류 · 90개 중분류 · 225개 소분류 · 55개 세분류**로 정리했습니다.
+별표한 저장소 **2,257개**를 **20개 대분류 · 90개 중분류 · 225개 소분류 · 55개 세분류**로 정리했습니다.
 
 아래 표는 대분류이며, 각 항목은 GitHub Stars 리스트로 연결됩니다.
 
 | 분류 | 개수 | 주요 하위 분류 |
 |---|---:|---|
 | [큐레이션 · 학습 자료](https://github.com/stars/Enitsed/lists/%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%99%EC%8A%B5-%EC%9E%90%EB%A3%8C) | 485 | AI · LLM, 언어별 학습, 종합 큐레이션 |
-| [AI 에이전트 · 코딩 하네스](https://github.com/stars/Enitsed/lists/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%95%98%EB%84%A4%EC%8A%A4) | 409 | Agent Skills · 플러그인, 코딩 에이전트 · CLI, 멀티 에이전트 오케스트레이션 |
+| [AI 에이전트 · 코딩 하네스](https://github.com/stars/Enitsed/lists/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%95%98%EB%84%A4%EC%8A%A4) | 414 | Agent Skills · 플러그인, 코딩 에이전트 · CLI, 멀티 에이전트 오케스트레이션 |
 | [DevOps · 인프라 · 클라우드](https://github.com/stars/Enitsed/lists/devops-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C) | 146 | 컨테이너 · 쿠버네티스, 관측 · 모니터링, CI/CD · 배포 |
 | [LLM 모델 · 추론 · 학습](https://github.com/stars/Enitsed/lists/llm-%EB%AA%A8%EB%8D%B8-%EC%B6%94%EB%A1%A0-%ED%95%99%EC%8A%B5) | 145 | AI 애플리케이션, 추론 · 서빙, 모델 릴리스 |
 | [웹 · 프론트엔드](https://github.com/stars/Enitsed/lists/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C) | 130 | 빌드 · 툴체인, UI · 디자인 시스템, 프레임워크 |
@@ -23,7 +23,7 @@
 | [웹 자동화 · 스크래핑](https://github.com/stars/Enitsed/lists/%EC%9B%B9-%EC%9E%90%EB%8F%99%ED%99%94-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91) | 40 | 수집, 브라우저 자동화 |
 | [언어 · 컴파일러 · 시스템](https://github.com/stars/Enitsed/lists/%EC%96%B8%EC%96%B4-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C) | 40 | 언어 · 런타임, 시스템 |
 | [모바일 · 데스크톱 앱](https://github.com/stars/Enitsed/lists/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1) | 36 | iOS · Swift, 크로스플랫폼, Android |
-| [게임 · 그래픽](https://github.com/stars/Enitsed/lists/%EA%B2%8C%EC%9E%84-%EA%B7%B8%EB%9E%98%ED%94%BD) | 28 | 게임 개발, 게임 플랫폼 |
+| [게임 · 그래픽](https://github.com/stars/Enitsed/lists/%EA%B2%8C%EC%9E%84-%EA%B7%B8%EB%9E%98%ED%94%BD) | 29 | 게임 개발, 게임 플랫폼 |
 | [테스트 · QA](https://github.com/stars/Enitsed/lists/%ED%85%8C%EC%8A%A4%ED%8A%B8-qa) | 13 | 테스트 |
 | [금융 · 트레이딩](https://github.com/stars/Enitsed/lists/%EA%B8%88%EC%9C%B5-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9) | 12 | 트레이딩, 금융 데이터, 핀테크 |
 
